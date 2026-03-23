@@ -24,4 +24,3 @@ Adaptive lighting that follows the sun. Automatically adjusts brightness and col
 ## More Info
 
 - [Main repository](https://github.com/sticktrk/rhythm-lighting)
-- [Integration repository](https://github.com/sticktrk/rhythm-lighting-integration)
